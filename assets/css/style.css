@@ -1,0 +1,86 @@
+/*
+    CREATED BY
+    RIZKAN FIRMANSYAH -> github.com/rizkanfirmansyah
+    PLEASE DONT REMOVE THIS 
+*/
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#side-1 {
+    background: url('../img/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.row .brand .logo {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.row .header {
+    margin-top: 170px;
+}
+
+.row .header .title {
+    font-size: 50px;
+    color: white;
+    font-weight: 600;
+}
+
+.row img {
+    top: 20;
+    right: 0;
+}
+
+.row .header span {
+    font-size: 35px;
+    font-weight: 500;
+    color: white;
+}
+
+.row .body p {
+    margin-top: 35px;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+
+.row form input::placeholder {
+    color: #A7A3FF !important;
+}
+
+.row form input {
+    background: #F0EFFF !important;
+    box-shadow: none !important;
+    border: none !important;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 15px 20px;
+}
+
+.row form .input-group-text {
+    background: #F0EFFF !important;
+    box-shadow: none !important;
+    border: none !important;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 15px 20px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+.row form span {
+    font-size: 13px;
+    color: #B0B0B0;
+    margin-top: 8px;
+}
+
+.row #side-2 button.btn-primary {
+    background: #4D47C3 !important;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 20px;
+}
